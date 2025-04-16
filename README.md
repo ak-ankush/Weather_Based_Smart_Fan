@@ -18,4 +18,5 @@ The Weather-Based Smart Fan is an automated fan system designed to adjust its sp
 - Compiling and finalizing the project report
 - Ensuring the documentation met academic and formatting standards
 - Organizing the submission process and coordinating all written deliverables
+
 This work reflects a culmination of my learnings and practical application of embedded systems and automation in a real-world use case.
